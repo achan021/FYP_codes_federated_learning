@@ -1,0 +1,9 @@
+Time taken for receiving model from server : 2.83932209 Seconds OR 0.047322 Minutes
+Time taken for training model : 5101.180748 Seconds OR 85.02 Minutes
+Time taken for sending model to server : 5.411651134 Seconds OR 0.090194 Minutes
+Time taken for receiving model from server : 2.259857893 Seconds OR 0.037664 Minutes
+Time taken for training model : 0.0002434253693 Seconds OR 4.0571e-06 Minutes
+Time taken for sending model to server : 5.28388381 Seconds OR 0.088065 Minutes
+Time taken for receiving model from server : 2.227279186 Seconds OR 0.037121 Minutes
+Time taken for training model : 0.001367807388 Seconds OR 2.2797e-05 Minutes
+Time taken for sending model to server : 4.670947075 Seconds OR 0.077849 Minutes
